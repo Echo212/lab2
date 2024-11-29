@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "charconv": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "functional": "cpp",
+        "cstring": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks"
+}

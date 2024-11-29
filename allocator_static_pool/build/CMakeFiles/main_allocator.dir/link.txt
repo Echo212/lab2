@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g -rdynamic CMakeFiles/main_allocator.dir/src/Allocator.o CMakeFiles/main_allocator.dir/src/main_allocator.o -o main_allocator 

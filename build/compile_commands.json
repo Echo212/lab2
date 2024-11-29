@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/echo/UCHEBA/APP_SEC/lab2/build",
+  "command": "/usr/bin/g++  -I/home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks/src  -Wall -g -g -std=gnu++17 -o CMakeFiles/main_allocator.dir/src/Allocator.cpp.o -c /home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks/src/Allocator.cpp",
+  "file": "/home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks/src/Allocator.cpp",
+  "output": "CMakeFiles/main_allocator.dir/src/Allocator.cpp.o"
+},
+{
+  "directory": "/home/echo/UCHEBA/APP_SEC/lab2/build",
+  "command": "/usr/bin/g++  -I/home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks/src  -Wall -g -g -std=gnu++17 -o CMakeFiles/main_allocator.dir/src/main_allocator.cpp.o -c /home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks/src/main_allocator.cpp",
+  "file": "/home/echo/UCHEBA/APP_SEC/lab2/allocator_heap_blocks/src/main_allocator.cpp",
+  "output": "CMakeFiles/main_allocator.dir/src/main_allocator.cpp.o"
+}
+]

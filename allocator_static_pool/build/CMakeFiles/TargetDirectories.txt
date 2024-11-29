@@ -1,0 +1,3 @@
+/home/echo/UCHEBA/APP_SEC/lab2/allocator_static_pool/build/CMakeFiles/main_allocator.dir
+/home/echo/UCHEBA/APP_SEC/lab2/allocator_static_pool/build/CMakeFiles/edit_cache.dir
+/home/echo/UCHEBA/APP_SEC/lab2/allocator_static_pool/build/CMakeFiles/rebuild_cache.dir
